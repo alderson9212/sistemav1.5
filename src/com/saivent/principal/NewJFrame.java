@@ -4741,7 +4741,7 @@ public class NewJFrame extends javax.swing.JFrame {
             jDialogProductosAdmin.setTitle("ADMINISTRACION DE PRODUCTOS");
             jDialogProductosAdmin.setModal(true);
             jDialogProductosAdmin.setIconImage(new ImageIcon(getClass().getResource("/Imagenes/Shopping_cart.png")).getImage());
-            jDialogProductosAdmin.setSize(850, 525);
+            jDialogProductosAdmin.setSize(850, 535);
             jDialogProductosAdmin.setLocationRelativeTo(null);
             jDialogProductosAdmin.setVisible(true);
 
